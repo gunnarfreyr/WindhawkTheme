@@ -1,5 +1,4 @@
-# WindhawkTheme
-My Windhawk settings
+# My Windhawk Theme settings
 
 Since quite few people asked me for the settings for my Windhark theme I made this gudie if anybody else was interested so I dont have to paste it over and over again to each user :)
 
