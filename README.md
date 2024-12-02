@@ -1,6 +1,6 @@
 # My Windhawk Theme settings
 
-Since quite few people asked me for the settings for my Windhawk theme I made this gudie if anybody else was interested so I dont have to paste it over and over again to each user :)
+Since quite few people asked me for the settings for my Windhawk theme I made this guide if anybody else was interested so I don't have to paste it over and over again to each user :)
 
 ![Theme](theme.png)
 
