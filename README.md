@@ -43,7 +43,7 @@ As I am using a png for my startmenu button , you need to change the path ImageS
   "controlStyles[4].target": "SystemTray.IconView#SystemTrayIcon",
   "controlStyles[4].styles[0]": "Foreground=#f13a96",
   "controlStyles[5].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement",
-  "controlStyles[5].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\icons\\window.png\" />",
+  "controlStyles[5].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\icons\\windows.png\" />",
   "controlStyles[6].styles[0]": "Visibility=Collapsed",
   "controlStyles[6].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon",
   "controlStyles[5].styles[1]": "Height=24",
