@@ -1,6 +1,6 @@
 # My Windhawk Theme settings
 
-Since quite few people asked me for the settings for my Windhark theme I made this gudie if anybody else was interested so I dont have to paste it over and over again to each user :)
+Since quite few people asked me for the settings for my Windhawk theme I made this gudie if anybody else was interested so I dont have to paste it over and over again to each user :)
 
 ![Theme](theme.png)
 
@@ -8,7 +8,7 @@ So you want to start with the Docklike theme, cause mine is just a modded versio
 
 So first off you are going to need Windhawk, download at [Windhawk.net](https://windhawk.net/)
 
-Then you need 3 plugins :
+**Then you need 3 plugins** :
 
   - Windows 11 Taskbar Styler
   - Taskbar Clock Customization
@@ -16,9 +16,9 @@ Then you need 3 plugins :
 
 You can find more info on modding and themes in the [Windhawk Wiki](https://github.com/ramensoftware/windhawk/wiki)
 
-#And here are my settings for each one : 
+# And here are my settings for each one : 
 
-##For Windows 11 Taskbar Styler 
+## For Windows 11 Taskbar Styler 
 
 ![Taskbar](taskbar.png)
 
@@ -55,7 +55,7 @@ As I am using a png for my startmenu button , you need to change the path ImageS
 }
 `
 
-##For Taskbar Clock Customization
+## For Taskbar Clock Customization
 
 ![Clock](clock.png)
 
@@ -110,6 +110,6 @@ I use url's to the local weather service to fetch the weather info in XML format
 }
 `
 
-##For Taskbar height and icon size
+## For Taskbar height and icon size
 
 `{"IconSize":20,"TaskbarHeight":48,"TaskbarButtonWidth":46}`
